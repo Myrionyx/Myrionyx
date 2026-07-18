@@ -87,3 +87,21 @@ Founder of Myrionyx
 ---
 
 > *Exploring today's questions to inspire tomorrow's discoveries.*
+>
+> ## Ecosystem
+
+```mermaid
+graph TD
+
+Myrionyx
+
+Myrionyx --> EMPFramework
+
+Myrionyx --> MirrorMathematics
+
+Myrionyx --> DeviceConcepts
+
+Myrionyx --> Resources
+
+Myrionyx --> OpenDiscussions
+```
