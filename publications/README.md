@@ -43,4 +43,4 @@ ScienceDirect
 
 **Article**
 
-[Read the article][(PASTE_THE_LINK_HERE)](https://www.sciencedirect.com/science/article/abs/pii/S0306987726002033?via%3Dihub).
+[Read the article](https://www.sciencedirect.com/science/article/abs/pii/S0306987726002033?via%3Dihub).
