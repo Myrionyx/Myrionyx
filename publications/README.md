@@ -6,7 +6,7 @@ This page lists peer-reviewed publications related to the Myrionyx Open Research
 
 ## 2026
 
-### Endogenous Mirroring Phenomena (EMP): A Theoretical Framework
+### Endogenous Mirroring Phenomena (EMP): a paradigm shift in biological sciences
 
 **Journal:** Medical Hypotheses
 
@@ -22,11 +22,12 @@ ScienceDirect
 
 **Article**
 
-[Read the article](PASTE_THE_LINK_HERE)
+[Read the article](https://www.sciencedirect.com/science/article/abs/pii/S0306987726000174?via%3Dihub))
 
 ---
 
-### Conceptual Biomedical Applications of EMP
+### Endogenous mirroring phenomena as a basis for novel diagnostic systems: a hypothesis for early disease detection
+
 
 **Journal:** Medical Hypotheses
 
@@ -42,4 +43,4 @@ ScienceDirect
 
 **Article**
 
-[Read the article](PASTE_THE_LINK_HERE)
+[Read the article][(PASTE_THE_LINK_HERE)](https://www.sciencedirect.com/science/article/abs/pii/S0306987726002033?via%3Dihub).
