@@ -1,14 +1,3 @@
-    MYRIONYX
-
-Open Research Initiative
-
-Biology • Mathematics • Biophysics • Engineering
-
-Exploring Hidden Patterns in Biological Systems
-
-
-
-
 
 # 👋 Welcome to Myrionyx
 
