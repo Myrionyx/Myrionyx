@@ -22,7 +22,7 @@ ScienceDirect
 
 **Article**
 
-[Read the article](https://www.sciencedirect.com/science/article/abs/pii/S0306987726000174?via%3Dihub))
+[Read the article] (https://www.sciencedirect.com/science/article/abs/pii/S0306987726000174?via%3Dihub)
 
 ---
 
@@ -43,4 +43,4 @@ ScienceDirect
 
 **Article**
 
-[Read the article](https://www.sciencedirect.com/science/article/abs/pii/S0306987726002033?via%3Dihub).
+[Read the article] (https://www.sciencedirect.com/science/article/abs/pii/S0306987726002033?via%3Dihub)
