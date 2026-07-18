@@ -106,3 +106,11 @@ Myrionyx --> Resources
 
 Myrionyx --> OpenDiscussions
 ```
+## Publications
+
+The scientific publications supporting this initiative are available in the **publications** directory.
+
+```
+Myrionyx
+└── publications
+```
