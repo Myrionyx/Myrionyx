@@ -1,3 +1,35 @@
+┌──────────────────────────────────────────────┐
+
+            MYRIONYX
+
+Open Research Initiative
+
+Biology • Mathematics • Biophysics • Engineering
+
+───────────────
+
+EMP Framework
+
+Mirror Mathematics
+
+Conceptual Devices
+
+Open Science
+
+───────────────
+
+"Exploring Hidden Patterns in Biological Systems"
+
+└──────────────────────────────────────────────┘
+
+figures/banner.png
+
+<img src="figures/banner.png">
+
+
+
+
+
 # 👋 Welcome to Myrionyx
 
 **Building open ideas at the intersection of biology, biophysics, mathematics, and biomedical innovation.**
