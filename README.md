@@ -76,6 +76,13 @@ Ways to participate include:
 This initiative is focused on building theoretical foundations and encouraging interdisciplinary collaboration.
 
 ---
+## 🤝 Join the Community
+
+Myrionyx welcomes interdisciplinary collaboration.
+
+Whether you are a researcher, student, engineer, programmer, designer, or simply curious about theoretical science, your ideas are welcome.
+
+➡️ See: **community/join-us.md**
 
 ## Founder
 
