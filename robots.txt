@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+Sitemap:
+https://myrionyx.github.io/Myrionyx/sitemap.xml
